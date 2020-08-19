@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bc2f2310.chunk.css",
+    "main.js": "/portfolio/static/js/main.99d8a71b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.99d8a71b.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.99416586.chunk.js": "/portfolio/static/js/2.99416586.chunk.js",
+    "static/js/2.99416586.chunk.js.map": "/portfolio/static/js/2.99416586.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.bd74b3fcef198efe4c149a4d5167f683.js": "/portfolio/precache-manifest.bd74b3fcef198efe4c149a4d5167f683.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.bc2f2310.chunk.css.map": "/portfolio/static/css/main.bc2f2310.chunk.css.map",
+    "static/js/2.99416586.chunk.js.LICENSE.txt": "/portfolio/static/js/2.99416586.chunk.js.LICENSE.txt",
+    "static/media/albm.png": "/portfolio/static/media/albm.8f7aa086.png",
+    "static/media/background.jpg": "/portfolio/static/media/background.127d3535.jpg",
+    "static/media/c1.png": "/portfolio/static/media/c1.14c8c6e5.png",
+    "static/media/c2.png": "/portfolio/static/media/c2.a44e6e43.png",
+    "static/media/c3.png": "/portfolio/static/media/c3.f2683c16.png",
+    "static/media/cf.png": "/portfolio/static/media/cf.6c629850.png",
+    "static/media/dashboard.jpg": "/portfolio/static/media/dashboard.68080f05.jpg",
+    "static/media/drcall.jpg": "/portfolio/static/media/drcall.3e0a0e3c.jpg",
+    "static/media/favicon.ico": "/portfolio/static/media/favicon.548ddd8c.ico",
+    "static/media/game.jpg": "/portfolio/static/media/game.adfed61f.jpg",
+    "static/media/health.png": "/portfolio/static/media/health.1884ba46.png",
+    "static/media/pathfinding.png": "/portfolio/static/media/pathfinding.e8af5d9b.png",
+    "static/media/tw.png": "/portfolio/static/media/tw.7816cf21.png",
+    "static/media/uva.png": "/portfolio/static/media/uva.84a2083d.png",
+    "static/media/vertigo.jpg": "/portfolio/static/media/vertigo.8ced9337.jpg",
+    "static/media/vertigo.png": "/portfolio/static/media/vertigo.df4987e7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.99416586.chunk.js",
+    "static/css/main.bc2f2310.chunk.css",
+    "static/js/main.99d8a71b.chunk.js"
+  ]
+}
